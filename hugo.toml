@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://miguelblancococho.github.io/"
+baseurl = "https://https://miguelblancococho.netlify.app/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -48,7 +48,7 @@ email = "you@example.com"
 ## Extras
 [params.extra]
 copyright = "© 2025. Miguel Blanco Cocho. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = true
+#poweredby = true
 highlightjs = true
 socialmarkup = true
 toc = true

@@ -1,0 +1,72 @@
+## Basic Configuration
+
+baseurl = "https://miguelblancococho.github.io/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Miguel Blanco Cocho"
+title = "Miguel Blanco Cocho"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Miguel Blanco Cocho"
+intro = "Ph.D. Candidate at the European University Institute (EUI)"
+description = "I work under the supervision of [Giacomo Calzolari](https://sites.google.com/view/giacomo-calzolari) and [Russell Cooper](https://sites.google.com/site/coopereconomics/). You can download my CV [here](/CV_MBC.pdf)"
+authorimage = "avatar.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "<username>"
+#instagram = "<username>"
+#linkedin = "<username>"
+twitter = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+#googlescholar = "<account_id>"
+strava = "<username>"
+email = "you@example.com"
+
+
+## Extras
+[params.extra]
+copyright = "© 2025. Miguel Blanco Cocho. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+name = "about"
+identifier = "about"
+weight = 100
+url = "about/"
+[[menu.main]]
+name = "research"
+weight = 200
+identifier = "research"
+url = "research/"
+[[menu.main]]
+name = "teaching"
+identifier = "teaching"
+weight = 300
+url = "teaching/"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Miguel Blanco Cocho</title>
+    <link>http://localhost:4321/categories/about/</link>
+    <description>Recent content in About on Miguel Blanco Cocho</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:4321/about/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:4321/about/</guid>
+      <description>&lt;p&gt;I am a Ph.D. Candidate in Economics at the European University Institute (EUI), in Florence, Italy. My research interests are Industrial Organization and Competition Policy, Pubic Economics and Law and Economics.&lt;/p&gt;&#xA;&lt;p&gt;I am currently working in topics related to the design of taxes and subsidies in industries in which firms have market power, and in which consumers can buy the same good in multiple periods at different prices. I am also working in the determinants of pass-through of subsidies and taxes in such settings.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

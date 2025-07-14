@@ -34,15 +34,15 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
+github = "miguelbc94"
 #instagram = "<username>"
 #linkedin = "<username>"
-twitter = "<username>"
+twitter = "miguel18394"
 #facebook = "<username>"
 #google = "<username>"
 #googlescholar = "<account_id>"
-strava = "<username>"
-email = "you@example.com"
+strava = "mblancococho"
+email = "miguelbcocho@gmail.com"
 
 
 ## Extras

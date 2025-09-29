@@ -4,11 +4,13 @@ title = 'Ongoing Projects'
 # draft = false
 +++
 
-## Subsidy Design with Forward-Looking Consumers
+## Welfare Implications of Subsidy Design with Intertemporal Price Discrimination (Job Market Paper)
 
 Abstract
 
-In this paper, I study the optimal design of subsidies for consumers when they are forward-looking and can decide to postpone purchases to future periods. This is especially relevant when firms employ intertemporal price discrimination techniques, as ad-valorem subsidy designs can cause government expenditures to increase more than proportionally due to subsidized consumers waiting for the final periods, when prices are higher. Using a real-life setting of subsidized consumers in the airline industry in Spain, I document how an increase in the percentage of the subsidy shifted purchases towards the final periods. I then develop a model with forward-looking consumers and firms practicing intertemporal pricing to study how equilibrium prices and period-specific demand vary depending on the subsidy design. The aim is to estimate the parameters of this model using data from this industry to quantify the magnitude of these changes.
+I study the impact of different subsidy designs for consumers in settings where firms have market power and exercise intertemporal price discrimination, such as airlines and hotels. Subsidy designs can steer demand towards high-priced products, increasing government spending as an unintended consequence. Using case study the subsidies for residents in remote territories in the Spanish airline industry, I develop a dynamic discrete choice model and estimate the demand parameters of forward-looking consumers, who can decide on the timing of their purchases. Combining the estimated demand parameters with a supply model in which multiproduct firms choose their prices in every period. I perform a counterfactual analysis to evaluate the impact of changing the subsidy design from the current ad valorem design to a unit design. I show that taking into account price discrimination is important when analyzing the question of unit versus ad valorem designs. I also show the change to a unit design would generate almost 15 % savings for the government due to the change in consumption patterns towards cheaper options.
+
+[Draft coming soon]
 
 ## The Determinants of Pass-Through with Dynamic Demand
 
@@ -28,7 +30,13 @@ on pass-through, and how this can explain a negative impact of competition on pa
 
 ## Public v Private University Choice
 
-Joint work with Isabel Soler Albadalejo. Draft coming soon
+Joint work with Isabel Soler Albadalejo. 
+
+Abstract
+
+In the last decade, an increasing number of students across several European countries — such as Spain, France, Italy, Germany and Finland — have opted for private universities over public ones, despite the higher costs associated with private education. This trend raises questions about the role of capacity constraints at public universities, where students are selected based on entrance scores until full capacity is reached. Such constraints often force students to either settle for less preferred majors or turn to more expensive private institutions. This paper examines the extent to which public capacity constraints have promoted the growth of private universities. A partial equilibrium model is introduced where heterogeneous individuals (in terms of ability and initial wealth) choose between public and private universities across ten distinct fields of study, resulting in a total of twenty different educational options. Using data from Spain, our findings reveal that 28\% of private university enrollments can be attributed to public capacity constraints. The analysis also indicates that private students who considered public universities as a first option lower the average admission scores at private universities and also the average student wealth levels. Furthermore, the study quantifies several factors that might have contributed to the rise of private Spanish universities from 2015 to 2020, with tighter public capacity constraints and increased population wealth being the most influential.
+
+[Draft coming soon]
 
 ## Aggregation of Data and Estimation of Elasticities
 

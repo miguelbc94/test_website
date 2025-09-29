@@ -22,7 +22,7 @@ You can read the reviews here:
 
 [2022/23](/2022_23micro.pdf)
 
-[2023/24](/2022_23micro.pdf)
+[2023/24](/2023_24micro.pdf)
 
 ## TA for Econometrics
 

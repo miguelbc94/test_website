@@ -1,0 +1,3 @@
+.hero-lead, .hero__lead, .page-subtitle, .site-description {
+  white-space: pre-line;
+}

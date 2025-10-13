@@ -4,7 +4,7 @@ title = 'Ongoing Projects'
 # draft = false
 +++
 
-## Welfare Implications of Subsidy Design with Intertemporal Price Discrimination (Job Market Paper)
+## Welfare Implications of Subsidy Design with Intertemporal Price Discrimination (JM Paper)
 
 Abstract
 
@@ -16,6 +16,8 @@ I study the impact of different subsidy designs for consumers in settings where 
 
 Abstract
 
+Joint work with Paula Navarro Sarmiento (CEMFI)
+
 Despite its prevalence as a policy tool, little is known about the effects of taxes and subsidies to consumers
 in industries with capacity constraints and in which consumers can purchase in multiple periods. This project
 aims at studying the effect of these features on pass through in oligopolistic markets. Using data from the
@@ -26,7 +28,7 @@ features that affect the usual determinants of pass-through in oligopolistic set
 of strategic substitutabilities between prices in different periods alter the usual analysis of the effect of competition
 on pass-through, and how this can explain a negative impact of competition on pass-through rates.
 
-[Download draft](/DraftMiguelPassThroughJune24.pdf)
+[Draft coming soon]
 
 ## Public v Private University Choice
 
@@ -36,7 +38,7 @@ Abstract
 
 In the last decade, an increasing number of students across several European countries — such as Spain, France, Italy, Germany and Finland — have opted for private universities over public ones, despite the higher costs associated with private education. This trend raises questions about the role of capacity constraints at public universities, where students are selected based on entrance scores until full capacity is reached. Such constraints often force students to either settle for less preferred majors or turn to more expensive private institutions. This paper examines the extent to which public capacity constraints have promoted the growth of private universities. A partial equilibrium model is introduced where heterogeneous individuals (in terms of ability and initial wealth) choose between public and private universities across ten distinct fields of study, resulting in a total of twenty different educational options. Using data from Spain, our findings reveal that 28\% of private university enrollments can be attributed to public capacity constraints. The analysis also indicates that private students who considered public universities as a first option lower the average admission scores at private universities and also the average student wealth levels. Furthermore, the study quantifies several factors that might have contributed to the rise of private Spanish universities from 2015 to 2020, with tighter public capacity constraints and increased population wealth being the most influential.
 
-[Download draft](/draft_univproject.pdf)
+[Draft coming soon]
 
 
 ## Aggregation of Data and Estimation of Elasticities

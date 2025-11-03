@@ -10,7 +10,7 @@ Abstract
 
 I study the impact of different subsidy designs for consumers in settings where firms have market power and exercise intertemporal price discrimination, such as airlines and hotels. Subsidy designs can steer demand towards high-priced products, increasing government spending as an unintended consequence. Using case study the subsidies for residents in remote territories in the Spanish airline industry, I develop a dynamic discrete choice model and estimate the demand parameters of forward-looking consumers, who can decide on the timing of their purchases. Combining the estimated demand parameters with a supply model in which multiproduct firms choose their prices in every period. I perform a counterfactual analysis to evaluate the impact of changing the subsidy design from the current ad valorem design to a unit design. I show that taking into account price discrimination is important when analyzing the question of unit versus ad valorem designs. I also show the change to a unit design would generate almost 15 % savings for the government due to the change in consumption patterns towards cheaper options.
 
-[Download draft](/JMPDraft.pdf)
+[Download draft](/BlancoCocho_JMP.pdf)
 
 ## The Determinants of Pass-Through with Dynamic Demand
 
